@@ -129,7 +129,18 @@
         "35",
         "36",
         "37",
-        "38"
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
       ]
     },
     {
@@ -194,7 +205,18 @@
         "35",
         "36",
         "37",
-        "38"
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -213,56 +235,61 @@
       "tag": "dns-out"
     },
     {
-      "security": "auto",
-      "alter_id": 64,
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-      "type": "vmess",
+      "password": "telegram-id-privatevpns",
+      "type": "trojan",
       "tag": "- UIF -",
-      "server": "183.236.51.23",
-      "server_port": 54104
+      "tls": {
+        "server_name": "trojan.burgerip.co.uk",
+        "enabled": true
+      },
+      "server": "3.69.102.254",
+      "server_port": 22222
     },
     {
-      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
       "alter_id": 0,
       "security": "auto",
       "type": "vmess",
       "tag": "本订阅完全免费的",
       "transport": {
         "headers": {
-          "Host": "ip005.dtku47.xyz"
+          "Host": "ip1.1789034.xyz"
         },
         "path": "github.com/Alvin9999",
         "type": "ws"
       },
-      "server": "104.19.38.62",
+      "server": "104.18.14.19",
       "server_port": 2086
     },
     {
-      "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
+      "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+      "type": "vless",
       "tag": "唯一官网",
       "transport": {
+        "path": "/fp=chrome",
         "headers": {
-          "Host": "6c47-butterfly-6c47.yexoji3749.workers.dev"
+          "Host": "b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev"
         },
-        "path": "/afrhms16v.bestxray.buzz/linkws",
         "type": "ws"
       },
-      "server": "104.16.60.8",
-      "server_port": 8080
+      "tls": {
+        "insecure": false,
+        "server_name": "b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev",
+        "enabled": true
+      },
+      "server": "185.176.26.128",
+      "server_port": 443
     },
     {
-      "password": "yPmvFqHc7KAR",
+      "password": "telegram-id-privatevpns",
       "type": "trojan",
       "tag": "ui4freedom.org",
       "tls": {
-        "server_name": "appsvs.shop",
+        "server_name": "trojan.burgerip.co.uk",
         "enabled": true
       },
-      "server": "3.38.103.12",
-      "server_port": 14210
+      "server": "54.170.19.212",
+      "server_port": 22222
     },
     {
       "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
@@ -272,311 +299,47 @@
       "tag": "失效请更新订阅",
       "transport": {
         "headers": {
-          "Host": "ip1.1789034.xyz"
+          "Host": "ip2.1457230.xyz"
         },
         "path": "github.com/Alvin9999",
         "type": "ws"
       },
-      "server": "162.159.140.19",
+      "server": "172.64.167.19",
       "server_port": 2086
     },
     {
-      "uuid": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
+      "method": "chacha20-ietf-poly1305",
+      "password": "70747514-fb14-4f31-8390-e1f0453eff6d",
+      "type": "shadowsocks",
       "tag": "有延迟就是可用",
-      "transport": {
-        "headers": {
-          "Host": "range-shape-b3fuegu.bananok182.workers.dev"
-        },
-        "path": "/hms02.fxiaomi.sbs/link",
-        "type": "ws"
-      },
-      "server": "104.16.60.8",
-      "server_port": 80
+      "server": "hk1.mhw7e2.online",
+      "server_port": 20001
     },
     {
-      "password": "0Ii8tiBp6pmx",
-      "type": "trojan",
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "type": "vless",
       "tag": "点击节点就是切换",
+      "transport": {
+        "path": "/?ed=2048security=tls",
+        "headers": {
+          "Host": "a.ssll.gay"
+        },
+        "type": "ws"
+      },
       "tls": {
-        "server_name": "appsvs.shop",
+        "insecure": false,
+        "server_name": "a.ssll.gay",
         "enabled": true
       },
-      "server": "13.213.70.149",
-      "server_port": 14236
+      "server": "124.199.33.104",
+      "server_port": 22672
     },
     {
-      "password": "telegram-id-privatevpns",
-      "type": "trojan",
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
       "tag": "7",
-      "tls": {
-        "server_name": "trojan.burgerip.co.uk",
-        "enabled": true
-      },
-      "server": "51.21.70.184",
-      "server_port": 22222
-    },
-    {
-      "password": "1wAkKAWmyjxV",
-      "type": "trojan",
-      "tag": "8",
-      "tls": {
-        "server_name": "appsvs.shop",
-        "enabled": true
-      },
-      "server": "3.79.108.152",
-      "server_port": 14235
-    },
-    {
-      "password": "CMLiu",
-      "type": "trojan",
-      "tag": "9",
-      "transport": {
-        "path": "/?ed=2048",
-        "headers": {
-          "Host": "aliorg.filegear-sg.me"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "server_name": "aliorg.filegear-sg.me",
-        "enabled": true
-      },
-      "server": "154.17.20.7",
-      "server_port": 34967
-    },
-    {
-      "uuid": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
-      "type": "vless",
-      "tag": "10",
-      "transport": {
-        "path": "tg@zdyz2fp=chrome",
-        "headers": {
-          "Host": "cfed.tgzdyz2.top"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "cfed.tgzdyz2.top",
-        "enabled": true
-      },
-      "server": "94.140.0.186",
-      "server_port": 443
-    },
-    {
-      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "11",
-      "transport": {
-        "headers": {
-          "Host": "ip2.1457230.xyz"
-        },
-        "path": "github.com/Alvin9999",
-        "type": "ws"
-      },
-      "server": "104.20.25.146",
-      "server_port": 2086
-    },
-    {
-      "password": "ZiMdIzjNosEt",
-      "type": "trojan",
-      "tag": "12",
-      "tls": {
-        "server_name": "appsvs.shop",
-        "enabled": true
-      },
-      "server": "3.75.187.37",
-      "server_port": 14245
-    },
-    {
-      "uuid": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
-      "type": "vless",
-      "tag": "13",
-      "transport": {
-        "path": "tg@zdyz2fp=chromefp=chrome",
-        "headers": {
-          "Host": "cfed.tgzdyz2.top"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "cfed.tgzdyz2.top",
-        "enabled": true
-      },
-      "server": "188.42.145.178",
-      "server_port": 443
-    },
-    {
-      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "14",
-      "transport": {
-        "headers": {
-          "Host": "ip1.1457230.xyz"
-        },
-        "path": "github.com/Alvin9999",
-        "type": "ws"
-      },
-      "server": "172.64.175.88",
-      "server_port": 2086
-    },
-    {
-      "password": "CMLiu",
-      "type": "trojan",
-      "tag": "15",
-      "transport": {
-        "path": "/",
-        "headers": {
-          "Host": "aliorg.filegear-sg.me"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "server_name": "aliorg.filegear-sg.me",
-        "enabled": true
-      },
-      "server": "218.158.87.155",
-      "server_port": 11423
-    },
-    {
-      "password": "CMLiu",
-      "type": "trojan",
-      "tag": "16",
-      "transport": {
-        "path": "/",
-        "headers": {
-          "Host": "aliorg.filegear-sg.me"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "server_name": "aliorg.filegear-sg.me",
-        "enabled": true
-      },
-      "server": "85.159.228.23",
-      "server_port": 8443
-    },
-    {
-      "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
-      "type": "vless",
-      "tag": "17",
-      "transport": {
-        "path": "/?ed=2048fp=randomized",
-        "headers": {
-          "Host": "dns68.putata.eu.org"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "dns68.putata.eu.org",
-        "enabled": true
-      },
-      "server": "119.247.186.144",
-      "server_port": 28717
-    },
-    {
-      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "18",
-      "transport": {
-        "headers": {
-          "Host": "ip1.1789034.xyz"
-        },
-        "path": "github.com/Alvin9999",
-        "type": "ws"
-      },
-      "server": "172.67.2.238",
-      "server_port": 2086
-    },
-    {
-      "password": "CMLiu",
-      "type": "trojan",
-      "tag": "19",
-      "transport": {
-        "path": "/",
-        "headers": {
-          "Host": "aliorg.filegear-sg.me"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "server_name": "aliorg.filegear-sg.me",
-        "enabled": true
-      },
-      "server": "43.153.80.208",
-      "server_port": 443
-    },
-    {
-      "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
-      "type": "vless",
-      "tag": "20",
-      "transport": {
-        "path": "/?ed=2048fp=randomized",
-        "headers": {
-          "Host": "dns68.putata.eu.org"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "dns68.putata.eu.org",
-        "enabled": true
-      },
-      "server": "58.176.229.127",
-      "server_port": 35002
-    },
-    {
-      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "21",
-      "transport": {
-        "headers": {
-          "Host": "ip2.1457230.xyz"
-        },
-        "path": "github.com/Alvin9999",
-        "type": "ws"
-      },
-      "server": "172.64.166.16",
-      "server_port": 2086
-    },
-    {
-      "uuid": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
-      "type": "vless",
-      "tag": "22",
-      "transport": {
-        "path": "tg@zdyz2securityfp=chrome",
-        "headers": {
-          "Host": "cfed.tgzdyz2.top"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "cfed.tgzdyz2.top",
-        "enabled": true
-      },
-      "server": "167.68.11.191",
-      "server_port": 443
-    },
-    {
-      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "23",
       "transport": {
         "headers": {
           "Host": "ip13.freegradely.xyz"
@@ -584,131 +347,147 @@
         "path": "github.com/Alvin9999",
         "type": "ws"
       },
-      "server": "104.19.45.35",
+      "server": "104.19.46.33",
       "server_port": 2086
-    },
-    {
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "type": "vless",
-      "tag": "24",
-      "transport": {
-        "path": "/?ed=2048fp=chrome",
-        "headers": {
-          "Host": "edtunnel-csc.pages.dev"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "edtunnel-csc.pages.dev",
-        "enabled": true
-      },
-      "server": "185.146.173.11",
-      "server_port": 443
-    },
-    {
-      "password": "telegram-id-privatevpns",
-      "type": "trojan",
-      "tag": "25",
-      "tls": {
-        "server_name": "trojan.burgerip.co.uk",
-        "enabled": true
-      },
-      "server": "3.64.132.116",
-      "server_port": 22222
-    },
-    {
-      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
-      "type": "vless",
-      "tag": "26",
-      "transport": {
-        "path": "/?ed=2048security=tls",
-        "headers": {
-          "Host": "juzibaipiao.5112233.xyz"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "juzibaipiao.5112233.xyz",
-        "enabled": true
-      },
-      "server": "188.42.145.159",
-      "server_port": 2096
-    },
-    {
-      "method": "aes-128-cfb",
-      "password": "shadowsocks",
-      "type": "shadowsocks",
-      "tag": "27",
-      "server": "184.170.241.194",
-      "server_port": 443
-    },
-    {
-      "uuid": "c9bda0e7-4ffa-464f-84a0-41253180d04c",
-      "alter_id": 0,
-      "security": "auto",
-      "type": "vmess",
-      "tag": "28",
-      "transport": {
-        "headers": {
-          "Host": "mmhk01.micloud.buzz"
-        },
-        "path": "/zh-cn",
-        "type": "ws"
-      },
-      "server": "mmhk01.micloud.buzz",
-      "server_port": 46001
-    },
-    {
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "type": "vless",
-      "tag": "29",
-      "transport": {
-        "path": "Telegram🇨🇳 @WangCai_8 /?ed=2048security=tls",
-        "headers": {
-          "Host": "a.ssll.gay"
-        },
-        "type": "ws"
-      },
-      "tls": {
-        "insecure": false,
-        "server_name": "a.ssll.gay",
-        "enabled": true
-      },
-      "server": "203.198.16.117",
-      "server_port": 81
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "36fdc73d-0bff-4d66-9759-e81c63de16b6",
-      "type": "shadowsocks",
-      "tag": "30",
-      "server": "yd1.qianggewangluo.buzz",
-      "server_port": 10813
     },
     {
       "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
       "alter_id": 0,
       "security": "auto",
       "type": "vmess",
-      "tag": "31",
+      "tag": "8",
       "transport": {
         "headers": {
-          "Host": "ip14.freegradely.xyz"
+          "Host": "ip2.1457230.xyz"
         },
         "path": "github.com/Alvin9999",
         "type": "ws"
       },
-      "server": "104.19.32.216",
+      "server": "172.64.167.8",
       "server_port": 2086
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "9",
+      "transport": {
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.19.45.31",
+      "server_port": 2086
+    },
+    {
+      "uuid": "06d65689-a12a-467c-9ff8-0363fe90c0b4",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "10",
+      "transport": {
+        "headers": {
+          "Host": "sssub.v2.001.ssrsub.com"
+        },
+        "path": "/api/v3/download.getFile",
+        "type": "ws"
+      },
+      "server": "russia.com",
+      "server_port": 8880
+    },
+    {
+      "password": "dgr(0CjGUZfg",
+      "type": "trojan",
+      "tag": "11",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "13.125.17.94",
+      "server_port": 16588
+    },
+    {
+      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
+      "type": "vless",
+      "tag": "12",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "juzibaipiao.5112233.xyz"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "juzibaipiao.5112233.xyz",
+        "enabled": true
+      },
+      "server": "188.42.145.159",
+      "server_port": 8443
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "13",
+      "transport": {
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.19.55.49",
+      "server_port": 2086
+    },
+    {
+      "security": "auto",
+      "alter_id": 64,
+      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+      "type": "vmess",
+      "tag": "14",
+      "server": "112.132.212.19",
+      "server_port": 50004
+    },
+    {
+      "password": "glwvSblL9swT",
+      "type": "trojan",
+      "tag": "15",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "35.157.229.94",
+      "server_port": 16568
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "dd29d7ad-5fda-4f64-a57e-716ca6010e65",
+      "type": "shadowsocks",
+      "tag": "16",
+      "server": "yidong1.liulangdiqiu.life",
+      "server_port": 10717
+    },
+    {
+      "password": "telegram-id-privatevpns",
+      "type": "trojan",
+      "tag": "17",
+      "tls": {
+        "server_name": "trojan.burgerip.co.uk",
+        "enabled": true
+      },
+      "server": "35.179.196.173",
+      "server_port": 22222
     },
     {
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
       "type": "vless",
-      "tag": "32",
+      "tag": "18",
       "transport": {
-        "path": "/fp=chrome",
+        "path": "/?ed=2048security=tls",
         "headers": {
           "Host": "a.ssll.gay"
         },
@@ -719,31 +498,69 @@
         "server_name": "a.ssll.gay",
         "enabled": true
       },
-      "server": "45.80.110.5",
+      "server": "89.116.161.139",
       "server_port": 2083
     },
     {
-      "uuid": "f3fcb0be-c785-4791-bd88-335dd20f0c1e",
+      "password": "z)EClJwfVkt6",
+      "type": "trojan",
+      "tag": "19",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "52.12.223.15",
+      "server_port": 16572
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "2MkHPhqUTQKK7N7D",
+      "type": "shadowsocks",
+      "tag": "20",
+      "server": "zhuliu.zhenxunwudi.top",
+      "server_port": 38045
+    },
+    {
+      "password": "telegram-id-directvpn",
+      "type": "trojan",
+      "tag": "21",
+      "tls": {
+        "server_name": "trojan.burgerip.co.uk",
+        "enabled": true
+      },
+      "server": "3.76.159.204",
+      "server_port": 22222
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "type": "shadowsocks",
+      "tag": "22",
+      "server": "156.146.38.167",
+      "server_port": 443
+    },
+    {
+      "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
       "type": "vless",
-      "tag": "33",
+      "tag": "23",
       "transport": {
-        "path": "/?proxyip=proxyip.multacom.fxxk.dedyn.iofp=chromefp=chrome",
+        "path": "/?ed=2048",
         "headers": {
-          "Host": "g1.youyuan.us.kg"
+          "Host": "dns68.putata.eu.org"
         },
         "type": "ws"
       },
       "tls": {
-        "server_name": "g1.youyuan.us.kg",
+        "server_name": "dns68.putata.eu.org",
         "enabled": true
       },
-      "server": "188.42.145.140",
-      "server_port": 443
+      "server": "156.67.111.64",
+      "server_port": 2053
     },
     {
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
       "type": "vless",
-      "tag": "34",
+      "tag": "24",
       "transport": {
         "path": "/?ed=2048fp=chromefp=chrome",
         "headers": {
@@ -756,23 +573,180 @@
         "server_name": "a.ssll.gay",
         "enabled": true
       },
-      "server": "192.200.160.6",
+      "server": "69.84.182.102",
       "server_port": 443
     },
     {
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "25",
+      "transport": {
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "172.64.166.32",
+      "server_port": 2086
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
       "type": "shadowsocks",
+      "tag": "26",
+      "server": "156.146.62.162",
+      "server_port": 443
+    },
+    {
+      "password": "KtXTl)3XbYiR",
+      "type": "trojan",
+      "tag": "27",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "18.194.53.50",
+      "server_port": 16576
+    },
+    {
+      "password": ")kFqSdWRxEL1",
+      "type": "trojan",
+      "tag": "28",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "3.38.135.85",
+      "server_port": 16575
+    },
+    {
+      "password": "telegram-id-privatevpns",
+      "type": "trojan",
+      "tag": "29",
+      "tls": {
+        "server_name": "trojan.burgerip.co.uk",
+        "enabled": true
+      },
+      "server": "51.44.63.245",
+      "server_port": 22222
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "30",
+      "transport": {
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.26.0.56",
+      "server_port": 2086
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "31",
+      "transport": {
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "172.64.99.22",
+      "server_port": 2086
+    },
+    {
+      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
+      "type": "vless",
+      "tag": "32",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "juzibaipiao.5112233.xyz"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "juzibaipiao.5112233.xyz",
+        "enabled": true
+      },
+      "server": "94.247.142.245",
+      "server_port": 8443
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "33",
+      "transport": {
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.19.123.11",
+      "server_port": 2086
+    },
+    {
+      "password": "CMLiu",
+      "type": "trojan",
+      "tag": "34",
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "aliorg.filegear-sg.me"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "aliorg.filegear-sg.me",
+        "enabled": true
+      },
+      "server": "222.97.95.239",
+      "server_port": 10443
+    },
+    {
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
       "tag": "35",
-      "server": "54.180.243.72",
+      "transport": {
+        "headers": {
+          "Host": "ip006.3196772.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.19.32.46",
+      "server_port": 2086
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "type": "shadowsocks",
+      "tag": "36",
+      "server": "156.146.62.161",
       "server_port": 443
     },
     {
       "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
       "type": "vless",
-      "tag": "36",
+      "tag": "37",
       "transport": {
-        "path": "twitterfreecodessecurity=tls",
+        "path": "twitterfreecodesfp=chromefp=chromefp=chrome",
         "headers": {
           "Host": "a.ssll.gay"
         },
@@ -783,32 +757,204 @@
         "server_name": "a.ssll.gay",
         "enabled": true
       },
-      "server": "45.80.110.212",
-      "server_port": 8443
+      "server": "45.80.110.230",
+      "server_port": 2087
     },
     {
-      "method": "aes-256-cfb",
-      "password": "M3t2ZEQcMGRWBjRa",
+      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
+      "type": "vless",
+      "tag": "38",
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "juzibaipiao.5112233.xyz"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "insecure": false,
+        "server_name": "juzibaipiao.5112233.xyz",
+        "enabled": true
+      },
+      "server": "188.42.88.130",
+      "server_port": 443
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
       "type": "shadowsocks",
-      "tag": "37",
-      "server": "80.92.204.106",
-      "server_port": 9011
+      "tag": "39",
+      "server": "156.146.62.163",
+      "server_port": 443
     },
     {
-      "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+      "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+      "type": "vless",
+      "tag": "40",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "dns68.putata.eu.org"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "dns68.putata.eu.org",
+        "enabled": true
+      },
+      "server": "119.247.186.144",
+      "server_port": 28717
+    },
+    {
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "type": "vless",
+      "tag": "41",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "a.ssll.gay"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "insecure": false,
+        "server_name": "a.ssll.gay",
+        "enabled": true
+      },
+      "server": "223.222.178.157",
+      "server_port": 22232
+    },
+    {
+      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
+      "type": "vless",
+      "tag": "42",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "juzibaipiao.5112233.xyz"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "juzibaipiao.5112233.xyz",
+        "enabled": true
+      },
+      "server": "91.193.59.37",
+      "server_port": 2096
+    },
+    {
+      "password": "v(O9vM5SXG7e",
+      "type": "trojan",
+      "tag": "43",
+      "tls": {
+        "server_name": "appsvs.shop",
+        "enabled": true
+      },
+      "server": "54.234.83.103",
+      "server_port": 16583
+    },
+    {
+      "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+      "type": "vless",
+      "tag": "44",
+      "transport": {
+        "path": "/?ed=2048",
+        "headers": {
+          "Host": "dns68.putata.eu.org"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "dns68.putata.eu.org",
+        "enabled": true
+      },
+      "server": "183.178.22.246",
+      "server_port": 11417
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
       "alter_id": 0,
       "security": "auto",
       "type": "vmess",
-      "tag": "38",
+      "tag": "45",
       "transport": {
         "headers": {
-          "Host": "d396-flower-d396.megare7260.workers.dev"
+          "Host": "ip1.1789034.xyz"
         },
-        "path": "/obdii.cfd/linkws",
+        "path": "github.com/Alvin9999",
         "type": "ws"
       },
-      "server": "Back.MsV2ray.online",
-      "server_port": 80
+      "server": "104.26.5.103",
+      "server_port": 2086
+    },
+    {
+      "uuid": "f775978b-6e22-41a8-ae5e-5f9779e6745f",
+      "type": "vless",
+      "tag": "46",
+      "transport": {
+        "path": "/?ed",
+        "headers": {
+          "Host": "juzibaipiao.5112233.xyz"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "server_name": "juzibaipiao.5112233.xyz",
+        "enabled": true
+      },
+      "server": "66.235.200.158",
+      "server_port": 2083
+    },
+    {
+      "uuid": "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5",
+      "type": "vless",
+      "tag": "47",
+      "transport": {
+        "path": "tg@zdyz2fp=chrome",
+        "headers": {
+          "Host": "cfed.tgzdyz2.top"
+        },
+        "type": "ws"
+      },
+      "tls": {
+        "insecure": false,
+        "server_name": "cfed.tgzdyz2.top",
+        "enabled": true
+      },
+      "server": "167.68.11.95",
+      "server_port": 443
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "48",
+      "transport": {
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "104.19.46.27",
+      "server_port": 2086
+    },
+    {
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "alter_id": 0,
+      "security": "auto",
+      "type": "vmess",
+      "tag": "49",
+      "transport": {
+        "headers": {
+          "Host": "ip1.1789034.xyz"
+        },
+        "path": "github.com/Alvin9999",
+        "type": "ws"
+      },
+      "server": "162.159.140.89",
+      "server_port": 2086
     }
   ],
   "route": {
